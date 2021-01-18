@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently a student at Polstat STIS
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Understanding more about Data Structure and Algorithm
 - ⚡ Fun fact: I love KPOP
 

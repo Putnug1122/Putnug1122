@@ -1,4 +1,4 @@
-### Hi there, I'm Putra Nugraha - aka [codeSTACKr][website] 👋
+### Hi there, I'm Putra Nugraha - aka [Deta][website] 👋
 
 [![Website](https://img.shields.io/website?label=My%20Web&logo=github&style=for-the-badge&url=https%3A%2F%2Fputnug1122.github.io%2F)](https://putnug1122.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/FeraFora?color=%231DA1F2&label=Don%27t%20Click&logo=Twitter&style=for-the-badge)](https://twitter.com/FeraFora)

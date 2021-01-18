@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-readme-lilac.vercel.app/api/spotify-playing" alt="Deta Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://spotify-readme-lilac.vercel.app/api/spotify-playing" alt="Deta Spotify Playing" width="350" />](https://open.spotify.com/user/kn3h8gu1m586ni9u70kvb31tt)
 
 ### Connect with me:
 

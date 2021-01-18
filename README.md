@@ -1,6 +1,6 @@
 ### Hi there, I'm Putra Nugraha - aka [codeSTACKr][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://putnug1122.github.io/)
+[![Website](https://img.shields.io/website?label=My%20Web&logo=github&style=for-the-badge&url=https%3A%2F%2Fputnug1122.github.io%2F)](https://putnug1122.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/FeraFora?color=%231DA1F2&label=Don%27t%20Click&logo=Twitter&style=for-the-badge)](https://twitter.com/FeraFora)
 
 ## I'm a Student, Statistician, Developer, and WIZONE!!

@@ -40,7 +40,7 @@
 <br />
 
 ### Competitive Programming
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/code-chef/code-chef.png" />
+<img align="left" alt="HTML5" width="26px" src="https://camo.githubusercontent.com/b2727b304a537ffedfcb9a636dcead44e0b9f55e6d060bfe78bd6da7c293ec80/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f636f6465636865665f7368617265642f73697465732f616c6c2f7468656d65732f61626573736976652f6c6f676f2e737667" />
 
 
 

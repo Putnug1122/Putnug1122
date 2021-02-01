@@ -45,6 +45,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/deta_karang/)
 
 <br />
+<br />
 <details>
   <summary>:zap: GitHub Stats</summary>
 

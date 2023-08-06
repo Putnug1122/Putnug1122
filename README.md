@@ -3,12 +3,6 @@
 </p>
 
 <h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer" /></a>
-</p>
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Putnug1122.Putnug1122)
-[![Github](https://img.shields.io/github/followers/Putnug1122?label=Follow&style=social)](https://github.com/Putnug1122)
 
 <div size='20px'> Hi! My name is Putra Nugraha. Thank You for taking the time to view my GitHub Profile :smile
 </div>

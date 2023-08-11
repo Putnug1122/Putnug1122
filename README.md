@@ -1,22 +1,6 @@
-<p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/62296958?s=400&u=552058c77cd6ef77235b6d76446423acbda58448&v=4">
-</p>
-
 <h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<div size='20px'> Hi! My name is Putra Nugraha. Thank You for taking the time to view my GitHub Profile :smile
+<div size='20px'> Hi! My name is Gede Putra Nugraha. Thank You for taking the time to view my GitHub Profile 🤟
 </div>
 
-<h2> About Me </h2>
-
-
-- 🔭 I'm currently an undergraduate student at <a href= https://stis.ac.id>STIS</a>
-- 🌱 I’m currently learning Rust, Golang, and Web Performance
-- 👯 I’m looking to collaborate on Projects
-- 💬 Ask me about Web, Mobile, and Linux
-- ⚡ Fun fact: PHP is still alive.
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Putnug1122&theme=tokyonight&hide=css,html)
----
 
